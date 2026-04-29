@@ -110,4 +110,4 @@ Pune, India
 
 ## ⭐ Acknowledgement
 
-Inspired by real-world financial analytics platforms and investor research tools.
+Inspired by CredInsight 
